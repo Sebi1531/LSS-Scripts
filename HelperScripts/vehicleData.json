@@ -235,7 +235,7 @@
 		},
 		"building": [0, 18],
 		"additional": {
-			"qualification": ["GW-Messtechnik"]
+			"qualification": [{"names":["GW-Messtechnik"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 10
